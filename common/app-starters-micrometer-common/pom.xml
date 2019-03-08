@@ -19,6 +19,7 @@
 		<dependency>
 			<groupId>io.pivotal.cfenv</groupId>
 			<artifactId>java-cfenv-test-support</artifactId>
+			<scope>test</scope>
 		</dependency>
 	</dependencies>
 

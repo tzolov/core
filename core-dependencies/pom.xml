@@ -123,7 +123,6 @@
 				<groupId>io.pivotal.cfenv</groupId>
 				<artifactId>java-cfenv-test-support</artifactId>
 				<version>${java-cfenv-boot.version}</version>
-				<scope>test</scope>
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
